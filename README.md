@@ -2,4 +2,4 @@
 
 ## Mockups de interface
 
-![Twitter](https://github.com/manoeljr/layout-twitter/blob/main/twitter.png)
+![GoFinances](https://github.com/manoeljr/desafio-fundamentos-react/blob/master/go-finances-gostack-rocketseat.png)
